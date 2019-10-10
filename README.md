@@ -7,6 +7,10 @@ state of the blockchain.
 
 Go to the [latest release](https://github.com/input-output-hk/fenrir/releases/latest) and choose your installer.
 
+### Example
+
+<img src="./example.png" width="500" />
+
 ## Development build
 
 ```
