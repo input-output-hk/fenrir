@@ -3,6 +3,10 @@
 Electron app to visualize [Jörmungandr](http://github.com/input-output-hk/jormungandr) state and the
 state of the blockchain.
 
+## Installation
+
+Go to the [latest release](https://github.com/input-output-hk/fenrir/releases/latest) and choose your installer.
+
 ## Development build
 
 ```
